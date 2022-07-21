@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jarawr
-- 👀 I’m interested in ... Python, DevOps, Automation
+- 👀 I’m interested in ... Python, DevOps, AWS
 - 🌱 I’m currently learning ... DevOps
 - 💞️ I’m looking to collaborate on ... DevOps or Automation projects
 - 📫 How to reach me ... jarraramjad@gmail.com
