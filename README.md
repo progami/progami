@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jarawwwwwwwwwwwwr
+- 👋 Hi, I’m @Jarrar
 - 👀 I’m interested in ... Python, DevOps, AWS
 - 🌱 I’m currently learning ... DevOps
 - 💞️ I’m looking to collaborate on ... DevOps or Automation projects
